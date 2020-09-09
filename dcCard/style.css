@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: aliceblue;
+    padding: 1em;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    gap: 1rem;
+    justify-items: center;
+}
