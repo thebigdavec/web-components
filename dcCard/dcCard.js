@@ -31,14 +31,14 @@ template.innerHTML = `
 .card::before {
 	transform-origin: bottom left;
 	transform: skewy(-3deg);
-	right: 60%;
+	right: 46%;
 	box-shadow: 0 14px 8px -8px #0003;
 }
 
 .card::after {
 	transform-origin: bottom right;
 	transform: skewy(3deg);
-	left: 60%;
+	left: 46%;
 	box-shadow: 0 14px 8px -8px #0003;
 }
 
